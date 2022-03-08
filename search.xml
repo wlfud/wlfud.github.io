@@ -71,7 +71,7 @@
       <link href="/p/b53e0f88/"/>
       <url>/p/b53e0f88/</url>
       
-        <content type="html"><![CDATA[<div class="note info flat"><p>为当前文本图层简繁转换</p></div><img src="https://s2.loli.net/2022/02/10/QzP4Ny7GfinZAT3.gif" alt="简↔繁.jsx" style="zoom:50%;" /><ol><li>为脚本创建一个动作</li><li>选中文本图层</li><li>执行动作</li></ol>]]></content>
+        <content type="html"><![CDATA[<div class="note info flat"><p>为当前文本图层简繁转换</p></div><img src="https://s2.loli.net/2022/02/10/QzP4Ny7GfinZAT3.gif" alt="@简↔繁.jsx" style="zoom:50%;" /> <ol><li>为脚本创建一个动作</li><li>选中文本图层</li><li>执行动作</li></ol>]]></content>
       
       
       <categories>
@@ -150,7 +150,7 @@
       <link href="/p/118df7fa/"/>
       <url>/p/118df7fa/</url>
       
-        <content type="html"><![CDATA[<h2 id="自动色阶">自动色阶</h2><div class="note info flat"><p>自动调整色阶</p></div><ol><li>选择要调整色阶的 jpg 图片文件夹</li><li>执行完后会在原路径生成 new 文件夹</li></ol><img src="https://s2.loli.net/2022/02/23/GpQRJYP15ITy4go.gif" alt="自动色阶.jsx" style="zoom: 67%;" /> ]]></content>
+        <content type="html"><![CDATA[<h2 id="自动色阶">自动色阶</h2><div class="note info flat"><p>自动调整色阶</p></div><ol><li>选择要调整色阶的 jpg 图片文件夹</li><li>执行完后会在原路径生成 new 文件夹</li></ol><img src="https://s2.loli.net/2022/02/23/GpQRJYP15ITy4go.gif" alt="@自动色阶.jsx" style="zoom: 67%;" /> ]]></content>
       
       
       <categories>
