@@ -8,7 +8,7 @@
       <link href="/p/3a583360/"/>
       <url>/p/3a583360/</url>
       
-        <content type="html"><![CDATA[<h2 id="拼长图">拼长图</h2><div class="note info flat"><p>批处理脚本，将图片按需要的数量拼接成长图</p></div><ul><li>选择要拼图的文件夹</li><li>输入要拼图的个数<ul><li><code>= 2</code> ：把每两张图片拼接在一起，以此类推……</li><li><code>= 1</code> ：没有图，不执行原文件本身，不执行</li><li><code>= 0</code> ：没有图，不执行</li><li><code>= 图片个数</code> ：把所有图片拼成一个长图</li></ul></li><li>执行完后会保存在原路径生成的新文件夹里</li></ul><img src="https://s2.loli.net/2022/03/12/XR8Zm5TtlNUgfqJ.gif" alt="@拼长图.jsx" style="zoom:50%;" /> <div class="note blue icon simple"><i class="note-icon fas fa-bullhorn"></i><p>更新</p></div><ul><li>拼长图：按需要输入要拼图的个数</li><li>拼长图_微博：以微博最多发图数 18 为标准，不需要输入</li></ul>]]></content>
+        <content type="html"><![CDATA[<h2 id="拼长图">拼长图</h2><div class="note info flat"><p>批处理脚本，将图片按需要的数量拼接成长图</p></div><ul><li>选择要拼图的文件夹</li><li>输入要拼图的个数<ul><li><code>= 2</code> ：把每两张图片拼接在一起，以此类推……</li><li><code>= 1</code> ：原文件本身，不执行</li><li><code>= 0</code> ：没有图，不执行</li><li><code>= 图片个数</code> ：把所有图片拼成一个长图</li></ul></li><li>执行完后会保存在原路径生成的新文件夹里</li></ul><img src="https://s2.loli.net/2022/03/12/XR8Zm5TtlNUgfqJ.gif" alt="@拼长图.jsx" style="zoom:50%;" /> <div class="note blue icon simple"><i class="note-icon fas fa-bullhorn"></i><p>更新</p></div><ul><li>拼长图：按需要输入要拼图的个数</li><li>拼长图_微博：以微博最多发图数 18 为标准，不需要输入</li></ul>]]></content>
       
       
       <categories>
