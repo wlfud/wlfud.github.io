@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>拼长图</title>
+      <link href="/p/3a583360/"/>
+      <url>/p/3a583360/</url>
+      
+        <content type="html"><![CDATA[<h2 id="拼长图"><a href="#拼长图" class="headerlink" title="拼长图"></a>拼长图</h2><div class="note info flat"><p>批处理脚本，将图片按需要的数量拼接成长图</p></div><ul><li>选择要拼图的文件夹</li><li>输入要拼图的个数<ul><li><code>= 2</code> ：把每两张图片拼接在一起</li><li><code>= 1</code> ：没有图，不执行</li><li><code>= 0</code> ：原文件本身，不执行</li><li><code>= 图片个数</code> ：把所有图片拼成一个长图</li></ul></li><li>执行完后会保存在原路径生成的新文件夹里</li></ul><p><img src="https://gitee.com/wlfud/PicBed/raw/master/uPic/拼长图.gif" alt="@拼长图.jsx" style="zoom:50%;" /> </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ps </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ps </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>文本图层</title>
       <link href="/p/14bd63ea/"/>
       <url>/p/14bd63ea/</url>
