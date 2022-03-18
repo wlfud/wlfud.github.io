@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>裁剪&amp;色阶</title>
+      <link href="/p/3ce321cf/"/>
+      <url>/p/3ce321cf/</url>
+      
+        <content type="html"><![CDATA[<h2 id="自动裁剪">自动裁剪</h2><div class="note info flat"><p>结合 ps 带的裁剪功能</p></div><ol><li>选择要裁剪的图片文件夹</li><li>执行完后会在原路径生成 new 文件夹</li></ol><h3 id="py">py</h3><h2 id="自动色阶">自动色阶</h2><div class="note info flat"><p>批处理脚本，自动调整色阶</p></div><ol><li>选择要调整色阶的 jpg 图片文件夹</li><li>执行完后会在原路径生成 new 文件夹</li></ol><img src="https://s2.loli.net/2022/02/23/GpQRJYP15ITy4go.gif" alt="@自动色阶.jsx" style="zoom: 67%;" /> <h2 id="裁剪-色阶">裁剪&amp;色阶</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> ps </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ps </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>拼长图</title>
       <link href="/p/3a583360/"/>
       <url>/p/3a583360/</url>
@@ -146,7 +171,7 @@
       <link href="/p/d3b722d8/"/>
       <url>/p/d3b722d8/</url>
       
-        <content type="html"><![CDATA[<h2 id="脚本事件管理器">脚本事件管理器</h2><div class="note orange icon flat"><i class="note-icon fas fa-magic"></i><p>文件 → 脚本 → 脚本事件管理器</p></div><img src="https://gitee.com/wlfud/PicBed/raw/master/uPic/脚本事件管理器.png" alt="脚本" style="zoom: 50%;" />   <ul><li>打开图片时适应全屏</li></ul>]]></content>
+        <content type="html"><![CDATA[<h2 id="脚本事件管理器">脚本事件管理器</h2><div class="note orange icon flat"><i class="note-icon fas fa-magic"></i><p>文件 → 脚本 → 脚本事件管理器</p></div><img src="https://gitee.com/wlfud/PicBed/raw/master/uPic/脚本事件管理器.png" alt="脚本" style="zoom: 50%;" />   <ul><li><p>打开图片时适应全屏</p></li><li><p>打开 png 时重命名图层 0 为背景</p></li></ul>]]></content>
       
       
       <categories>
@@ -184,31 +209,6 @@
         <tags>
             
             <tag> tip </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>自动调整色阶</title>
-      <link href="/p/118df7fa/"/>
-      <url>/p/118df7fa/</url>
-      
-        <content type="html"><![CDATA[<h2 id="自动色阶">自动色阶</h2><div class="note info flat"><p>批处理脚本，自动调整色阶</p></div><ol><li>选择要调整色阶的 jpg 图片文件夹</li><li>执行完后会在原路径生成 new 文件夹</li></ol><img src="https://s2.loli.net/2022/02/23/GpQRJYP15ITy4go.gif" alt="@自动色阶.jsx" style="zoom: 67%;" /> ]]></content>
-      
-      
-      <categories>
-          
-          <category> ps </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> ps </tag>
             
         </tags>
       
